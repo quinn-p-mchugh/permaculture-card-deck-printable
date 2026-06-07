@@ -19,17 +19,20 @@ While the freely available PDF is great for viewing, its layout makes it difficu
 4. Print at **Actual Size** or **100% scale**.
 5. Cut each card out along the cut guides and assemble the deck.
 
+*Copied from https://www.permaculturedesign.earth/designdeck*
 > # PERMACULTURE DESIGN DECK
 > 
-> "The creation of a thousand forests is in one acorn."  
-> - Ralph Waldo Emerson      Sharing the Secrets of Natures Success, permaculture is a toolkit for becoming a more effective decision maker
-> and designer. Skill up and become better. Take your design life to the
-> next level.  
+> *"The creation of a thousand forests is in one acorn."*
+> *- Ralph Waldo Emerson*
+> 
+> Sharing the Secrets of Natures Success, permaculture is a toolkit for becoming a more effective decision maker
+> and designer. Skill up and become better. Take your design life to the next level.  
 > 
 > Creative card deck sharing a collection of permaculture principles,
 > strategies, attitudes, tools & frameworks. 230 cards to support your
 > permaculture practice, learning, teaching, designing and consulting.
 > Serves as a design tool, game and oracle.
+> 
 > Awesome gratitude to our core team: Grace Solkinson, Kym Chi, Dana
 > Wilson, Annaliese Hordern, Tamara Griffiths
 > 
