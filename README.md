@@ -6,7 +6,7 @@ You can [purchase a professionally printed copy of the card deck on Etsy](https:
 All credit for the creation of this deck belongs to Delvin, Grace, and their collaborators (listed below). Please consider [donating](https://www.paypal.com/donate/?hosted_button_id=MM79QGM4PW2FS) to support their work and help keep the downloads on their website free.
 
 ## Why this repository exists
-The free PDF is great for viewing, but it's not particularly convenient to print as a physical card deck. While the original deck is freely available, the downloadable PDF is not optimized for home printing. This repository reorganizes the cards into a print-ready format so you can print, cut, and assemble your own deck with minimal hassle.
+While the freely available PDF is great for viewing, its layout makes it difficult to print at home, especially as a two-sided card deck. This repository reorganizes the cards into a print-ready format so you can print, cut, and assemble your own deck with minimal hassle.. This repository reorganizes the cards into a print-ready format so you can print, cut, and assemble your own deck with minimal hassle.
 
 ## How to print
 1. Download all the PDFs in the `card-deck-printable-pdfs` folder.
