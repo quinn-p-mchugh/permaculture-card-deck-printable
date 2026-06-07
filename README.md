@@ -1,5 +1,5 @@
 # Print your own permaculture card deck
-This repository contains a easy-to-print version of the **[Permaculture Design Deck](https://www.permaculturedesign.earth/designdeck)** (2022 version), created by Delvin Solkinson, Grace Solkinson, and their collaborators. 
+This repository contains a easy-to-print version of the **[Permaculture Design Deck](https://www.permaculturedesign.earth/designdeck)** (2022 version), created by Delvin Solkinson, Grace Solkinson, and their collaborators. Print-ready PDFs are provided in both **US Letter** (8.5 x 11 in) and **A4** (210 x 297 mm) formats.
 
 You can [purchase a professionally printed copy of the card deck on Etsy](https://www.etsy.com/shop/DewPermaculture) or [download it as a free PDF version](https://www.dropbox.com/scl/fi/z9gd4df9oiha6be0gzayf/Permaculture-Design-Deck-2022.pdf?rlkey=ujrdfzl7xmocu05ioaguix1xn&e=1&dl=0) on [permaculturedesign.earth](https://www.permaculturedesign.earth/).
 
