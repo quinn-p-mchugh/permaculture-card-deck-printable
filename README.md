@@ -1,5 +1,5 @@
 # Learn permaculture principles by printing your own permaculture card deck
-[](readme-banner.png)
+[](readme-banner.jpg)
 
 This repository contains a easy-to-print version of the **[Permaculture Design Deck](https://www.permaculturedesign.earth/designdeck)** (2022 version), created by Delvin Solkinson, Grace Solkinson, and their collaborators. Print-ready PDFs are provided in both **US Letter (8.5 x 11 in)** and **A4 (210 x 297 mm)** formats.
 
