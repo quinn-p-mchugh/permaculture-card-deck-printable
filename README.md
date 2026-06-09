@@ -19,7 +19,8 @@ While the freely available PDF is great for viewing, its layout makes it difficu
 4. Print at **Actual Size** or **100% scale**.
 5. Cut each card out along the cut guides and assemble the deck.
 
-*Excerpt from [permaculturedesign.earth/designdeck](https://www.permaculturedesign.earth/designdeck):*
+## What is the Permaculture Design Deck?
+*From [permaculturedesign.earth/designdeck](https://www.permaculturedesign.earth/designdeck):*
 > # PERMACULTURE DESIGN DECK
 > 
 > *"The creation of a thousand forests is in one acorn."*
