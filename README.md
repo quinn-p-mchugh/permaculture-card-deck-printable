@@ -21,11 +21,6 @@ While the freely available PDF is great for viewing, its layout makes it difficu
 
 ## What is the Permaculture Design Deck?
 *From [permaculturedesign.earth/designdeck](https://www.permaculturedesign.earth/designdeck):*
-> # PERMACULTURE DESIGN DECK
-> 
-> *"The creation of a thousand forests is in one acorn."*
-> *- Ralph Waldo Emerson*
-> 
 > Sharing the Secrets of Natures Success, permaculture is a toolkit for becoming a more effective decision maker
 > and designer. Skill up and become better. Take your design life to the next level.  
 > 
