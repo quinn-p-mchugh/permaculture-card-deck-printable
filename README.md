@@ -60,8 +60,61 @@ While the freely available PDF is great for viewing, its layout makes it difficu
 ## Editing Card Layouts 
 This repository includes a `cider-database.json` file that can be imported into the [Cider](https://oatear.github.io/cider/), a free, open source card design studio. The database contains the card content and layout data used to generate the printable PDFs in this repository.
 
+To import the database into Cider:
+
+1. Open https://oatear.github.io/cider/
+2. Open the **☰ (hamburger menu)** in the top-left corner.
+3. Select **File → Advanced → Import Database**.
+4. Choose `cider-database.json`.
+
 If you need to modify the print layout, you can import this file into Cider and regenerate the PDFs. This may be useful for adjusting margins, repositioning elements, or making other layout changes for your printer.
 
 After editing, you can export the updated PDFs from Cider for printing.
 
 For more information about using Cider, see the [Cidar project documentation](https://github.com/oatear/cider).
+
+## Regenerating the Cider Database
+
+This repository includes `build_cider_deck.py`, a utility that converts the original Permaculture Design Deck PDF into a Cider-compatible `database.json` file.
+
+### Requirements
+
+* Python 3
+* `pdftoppm` (part of the Poppler utilities)
+* Optional: `Pillow` (`pip install Pillow`) for image downscaling
+
+### Usage
+
+```bash
+python3 build_cider_deck.py
+```
+
+Or specify custom paths:
+
+```bash
+python3 build_cider_deck.py INPUT_PDF OUTPUT_JSON
+```
+
+### What It Does
+
+The script assumes the PDF is organized as alternating front and back pages:
+
+* Page 1 = Card 1 Front
+* Page 2 = Card 1 Back
+* Page 3 = Card 2 Front
+* Page 4 = Card 2 Back
+* etc.
+
+It then:
+
+1. Renders each PDF page to an image.
+2. Pairs front and back images into cards.
+3. Builds a Cider-compatible `database.json`.
+4. Saves individual card images for reference.
+
+### Importing into Cider
+
+1. Open https://oatear.github.io/cider/
+2. Open the **☰ (hamburger menu)** in the top-left corner.
+3. Select **File → Advanced → Import Database**.
+4. Choose `cider-database.json`.
