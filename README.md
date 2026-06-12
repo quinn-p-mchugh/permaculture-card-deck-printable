@@ -72,7 +72,7 @@ To import the database into Cider:
 For more information about using Cider, see the [Cidar project documentation](https://github.com/oatear/cider).
 
 ## Creating a Cider Database from the Original PDF
-This repository includes `build_cider_deck.py`, a utility that converts the original Permaculture Design Deck PDF (`Permaculture Design Deck 2022 (Original).pdf`) into a Cider-compatible `cider-database.json` file.
+This repository includes `build_cider_deck.py`, a utility that converts the original Permaculture Design Deck PDF (`Permaculture Design Deck 2022 (Original).pdf`) into a [Cider](https://oatear.github.io/cider)-compatible `cider-database.json` file.
 
 ### Requirements
 
