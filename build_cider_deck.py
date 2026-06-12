@@ -357,7 +357,7 @@ def build_database(image_paths: list[str]) -> dict:
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("pdf",        nargs="?", default="Permaculture_Design_Deck_2022.pdf", help="Path to input PDF")
+    parser.add_argument("pdf",        nargs="?", default="Permaculture Design Deck 2022 (Original).pdf", help="Path to input PDF")
     parser.add_argument("output",     nargs="?", default="cider-database.json",                    help="Path to output JSON")
     parser.add_argument("--dpi",      type=int,  default=150,  help="Render DPI (default 150; source art ≈72 dpi so higher won't add sharpness)")
     parser.add_argument("--max-width",type=int,  default=600,  help="Downscale images to this max width in px (0 = no limit). Requires Pillow.")
