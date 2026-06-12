@@ -11,10 +11,10 @@ All credit for the creation of this deck belongs to Delvin, Grace, and their col
 While the freely available PDF is great for viewing, its layout makes it difficult to print at home, especially as a two-sided card deck. This repository reorganizes the cards into a print-ready format so you can print, cut, and assemble your own deck with minimal hassle.
 
 ## How to print
-1. Download all the PDFs in the `card-deck-printable-pdfs` folder.
-    - If you are printing on **US Letter (8.5 × 11 in)**, use the files in the `letter-size` subfolder.
-    - If you are printing on **A4 paper (210 x 297 mm)**, use the files in the `a4-size` subfolder.
-3. Open each PDF and select **Print**.
+1. Download the PDF file in the `card-deck-printable-pdfs` folder that matches your paper size: 
+    - For **US Letter (8.5 × 11 in)** paper, download the `letter-size` PDF.
+    - For **A4 (210 x 297 mm)** paper, download the `a4-size` PDF.
+3. Open the desired PDF and select **Print**.
 4. In the print dialog:
     - Enable **Print on both sides of paper**. This setting may be labeled **Two-Sided Printing**, **Duplex Printing**, **Print Double-Sided**, **Print on Both Sides**, etc.
     - Select **Flip on Short Edge**. This setting may be labeled **Short-Edge Binding**, **Bind on Short Edge**, **Short Edge**, **Flip Pages on Short Edge**, etc.
@@ -56,3 +56,12 @@ While the freely available PDF is great for viewing, its layout makes it difficu
 > sharing a creative essence of Permaculture Design.
 > 
 > [https://www.etsy.com/shop/DewPermaculture](https://www.etsy.com/your/shops/DewPermaculture/tools/listings)
+
+## Editing Card Layouts 
+This repository includes a `cider-database.json` file that can be imported into the [Cider](https://oatear.github.io/cider/), a free, open source card design studio. The database contains the card content and layout data used to generate the printable PDFs in this repository.
+
+If you need to modify the print layout, you can import this file into Cider and regenerate the PDFs. This may be useful for adjusting margins, repositioning elements, or making other layout changes for your printer.
+
+After editing, you can export the updated PDFs from Cider for printing.
+
+For more information about using Cider, see the [Cidar project documentation](https://github.com/oatear/cider).
