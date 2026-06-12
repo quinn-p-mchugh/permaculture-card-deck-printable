@@ -104,12 +104,20 @@ The script assumes the PDF is organized as alternating front and back pages:
 
 It then:
 
-1. Renders each PDF page to an image.
-2. Pairs front and back images into cards.
-3. Builds a Cider-compatible `cider-database.json`.
-4. Saves individual card images for reference.
+1. Converts each PDF page to an image
+2. Renames each image into card pairs (`0001A.png`, `0001B.png`, etc.)
+3. Optionally downsizes images to reduce file size
+4. Builds a Cider-compatible `cider-database.json`
+4. Saves individual card images for reference
 
-### Importing into Cider
+### Output
+
+The script generates:
+
+- `cider-database.json` — ready to import into Cider
+- A directory of individual card images (`0001A.png`, `0001B.png`, etc.)
+
+To import the generated database:
 
 1. Open https://oatear.github.io/cider/
 2. Open the **☰ (hamburger menu)** in the top-left corner.
