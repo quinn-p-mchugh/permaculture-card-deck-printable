@@ -60,8 +60,6 @@ While the freely available PDF is great for viewing, its layout makes it difficu
 ## Editing Card Layouts 
 This repository includes a `cider-database.json` file that can be imported into the [Cider](https://oatear.github.io/cider/), a free, open source card design studio. The database contains the card content and layout data used to generate the printable PDFs in this repository.
 
-If you need to modify the print layout, you can import this file into Cider and regenerate the PDFs. This may be useful for adjusting margins, repositioning elements, or making other layout changes for your printer.
-
-After editing, you can export the updated PDFs from Cider for printing.
+If you need to modify the layout of the printable PDFs, you can import the database into Cider, make your changes using the web interface, and export the updated PDFs for printing. This may be useful for adjusting margins, repositioning elements, or making other layout changes to better match your printer or paper stock.
 
 For more information about using Cider, see the [Cidar project documentation](https://github.com/oatear/cider).
